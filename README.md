@@ -64,8 +64,11 @@ When you participate in areas where the code of conduct applies, you should act 
 
 The Code of Conduct Working Group is a group of people that represent the IYWC community. They are responsible for handling conduct-related issues. Their purpose is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. They are:
 
-Name	                           Slack Handle	         Email
-Midhun V Areeckal                 	@mva 	             iywcommunity@gmail.com
+| Name                | Slack Handle | Email                 |
+| ------------------- | ------------ | --------------------- |
+|  Midhun V Areeckal  |     @mva     | iywcommunity@gmail.com|
+
+                 		            
 	                         
 If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. Do not post about the issue publicly or try to rally sentiment against a particular individual or group.
 
@@ -96,7 +99,7 @@ Changes to the Code of Conduct (including to the members of the Working Group) s
 Treat everyone with respect and kindness.
 Be thoughtful in how you communicate.
 Don't be destructive or inflammatory.
-If you encounter an issue, please mail conduct@hackclub.com.
+If you encounter an issue, please mail iywcommunity@gmail.com
 # Acknowledgments
 
 This was adapted from Hack Clubs Code of Conduct. It is to be noted that many parts of Hack Clubs Code of Conduct is adopted from the Code of Conduct documents of the Go, Django, FreeBSD, and Rust projects.
